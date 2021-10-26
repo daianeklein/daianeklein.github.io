@@ -72,6 +72,15 @@ body {
   background-repeat: no-repeat;
 }
 
+.figCaption {
+  color: #757575;
+  padding: 8px;
+  font-size: 12px;
+  font-family: 'Roboto', Helvetica, sans-serif;
+  font-weight:normal;
+  text-align: center;
+}
+
 body.ajax-page-visible {
   overflow: hidden;
 }
@@ -1520,7 +1529,7 @@ body > footer .copyrights {
 }
 
 .portfolio-grid figure:nth-child(even) a div:before {
-  background-color: #9e51f3;
+  background-color: 052b4d;
   
 }
 
