@@ -1428,12 +1428,14 @@ body > footer .copyrights {
 .portfolio-grid {
   margin-left: -0.5em;
   margin-right: -0.5em;
+  
 }
 
 .portfolio-grid figure {
   width: 33.33333%;
   float: left;
   padding: 3px;
+  
 }
 
 .portfolio-grid img {
@@ -1478,12 +1480,14 @@ body > footer .copyrights {
 .portfolio-rid figure a img {
   display: block;
   position: relative;
+  box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.12);
 }
 
 .portfolio-grid figure a {
   position: relative;
   display: block;
   overflow: hidden;
+  
 }
 
 .portfolio-grid figure a div {
@@ -1512,10 +1516,12 @@ body > footer .copyrights {
   background-color: #052b4d;
   opacity: 0.8;
   z-index: 0;
+  
 }
 
 .portfolio-grid figure:nth-child(even) a div:before {
   background-color: #9e51f3;
+  
 }
 
 .portfolio-grid figure a:hover div {
