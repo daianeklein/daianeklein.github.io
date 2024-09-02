@@ -489,3 +489,8 @@ footer {
     width: 100%; }
   .card-deck {
     flex-direction: column; } }
+
+  .no-space {
+      margin-bottom: 0;
+      margin-top: 0;
+  }
