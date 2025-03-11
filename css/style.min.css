@@ -45,6 +45,18 @@ body {
       padding-left: 30px;
       padding-right: 30px; } }
 
+.section-sub-title {
+  width: 100%; 
+  margin: 0 auto; 
+  text-align: center; 
+  font-size: 14.5px;
+  margin-top: 10px;
+  line-height: 1.5; 
+}
+/* .text-container p {
+  margin-bottom: 10px; 
+} */
+
 h1 {
   font-size: 4.8rem; }
 
